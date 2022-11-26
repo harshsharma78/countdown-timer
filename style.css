@@ -11,7 +11,7 @@ body {
     background-image: url("snowHut.jpg");
     min-height: 100vh;
     background-size: cover;
-    background-repeat: no-repeat;
+    /* background-repeat: no-repeat; */
     background-position: center center;
     display: flex;
     flex-direction: column;
@@ -52,11 +52,11 @@ h1 {
     }
 
     .big-text {
-        font-size: 2.2rem;
+        font-size: 2.5rem;
         display: flex;
         flex-wrap: wrap;
-        font-weight: 600;
-        margin: 1rem 4rem;
+        font-weight: 700;
+        margin: 1rem 4.2rem;
     }
 
 }
